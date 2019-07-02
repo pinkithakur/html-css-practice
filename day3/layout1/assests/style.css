@@ -1,0 +1,15 @@
+.cont{
+    width:500px;
+    height: 250px;
+    background-color: #fe7354;
+    margin: 0 auto;
+}
+.child{
+    width:280px;
+    height:165;
+    border:20px solid #ce0001;
+    background-color: #07db2e;
+    text-align: center;
+    font-weight: bold;
+    box-sizing:content-box;
+}
